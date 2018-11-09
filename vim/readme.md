@@ -25,10 +25,10 @@ Now you can enjoy it.
 
 ## What it can do.
 
-1.high light your code.
-2.auto install head information when you create a new code file by vim. Note: only suport C/C++/shell.
-3.it is easy for your eyes.
-4.Friendly for Chinese. (内有中文注释，方便做出各种个性设置)
+1.high light your code.   
+2.auto install head information when you create a new code file by vim. Note: only suport C/C++/shell.   
+3.it is easy for your eyes.   
+4.Friendly for Chinese. (内有中文注释，方便做出各种个性设置)   
 5. ...
 
 
